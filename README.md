@@ -3,7 +3,7 @@
 ![Logo](img/Logotec.jpg)
 ![LogoS](img/LogoSistemas.png)
 
-#  Información #
+# :page_facing_up: Información #
 
 **Nombre Del alumno:** Soria Marquez Guillermo
 
@@ -18,7 +18,7 @@
 **Materia:** Analisis Avanzado de
 Software
 
-# :pushpin: Indice #
+# :open_file_folder: Indice #
 
 # :books: Unidad 1
 
