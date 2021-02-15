@@ -24,10 +24,8 @@ Software
 
 **:paperclip: Carpeta Docs**
 
-* [C0.1 Integrar equipos](Blog/C0.1_IntegrarEquiposdeTrabajo.md)
-
 **:clipboard: Carpeta Blog**
-
+* [C0.1 Integrar equipos](Blog/C0.1_IntegrarEquiposdeTrabajo.md)
 # :closed_book: Unidad 2
 
 **:paperclip: Carpeta Docs**
