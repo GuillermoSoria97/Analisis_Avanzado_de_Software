@@ -22,21 +22,25 @@ Software
 
 # :books: Unidad 1
 
-**:paperclip: Carpeta Docs**
-
 **:clipboard: Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos.md)
+  
+**:paperclip: Carpeta Docs**
+
+
 # :closed_book: Unidad 2
 
-**:paperclip: Carpeta Docs**
 **:clipboard: Carpeta Blog**
+**:paperclip: Carpeta Docs**
+
 
 # :orange_book: Unidad 3
 
-**:paperclip: Carpeta Docs**
 **:clipboard: Carpeta Blog**
+**:paperclip: Carpeta Docs**
+
 
 # :blue_book: Unidad 4
 
-**:paperclip: Carpeta Docs**
 **:clipboard: Carpeta Blog**
+**:paperclip: Carpeta Docs**
