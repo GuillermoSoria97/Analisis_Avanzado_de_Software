@@ -25,7 +25,7 @@ Software
 **:paperclip: Carpeta Docs**
 
 **:clipboard: Carpeta Blog**
-* [C0.1 Integrar equipos](Blog/C0.1_IntegrarEquiposdeTrabajo.md)
+* [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos.md)
 # :closed_book: Unidad 2
 
 **:paperclip: Carpeta Docs**
