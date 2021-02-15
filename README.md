@@ -1,4 +1,4 @@
-# Analisis_Avanzado_de_Software
+# Analisis_Avanzado_de_Software :computer:
 
 ![Logo](img/Logotec.jpg)
 ![LogoS](img/LogoSistemas.png)
