@@ -20,7 +20,7 @@ Software
 
 # :open_file_folder: Indice #
 
-# :books: Unidad 1
+# :notebook: Unidad 1
 
 **:clipboard: Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos.md)
