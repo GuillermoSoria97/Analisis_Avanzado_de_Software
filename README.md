@@ -24,6 +24,7 @@ Software
 
 **:clipboard: Carpeta Blog**
 * [C0.1 Integrar equipos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.1%20Integrar%20equipos_GuillermoSoriaMarquez.md)
+* [C0.2  Tipo de sistema de información](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C0.2%20Tipo%20de%20sistema%20de%20informaci%C3%B3n_GuillermoSoriaMarquez.md)
   
 **:paperclip: Carpeta Docs**
 
