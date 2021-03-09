@@ -9,7 +9,7 @@
 
 **Numero de control:** 17210648.
 
-**Carrera:** Sistemas computacionales.
+**Carrera:** Sistemas Computacionales.
 
 **Nombre Del equipo:** Zerox
 
