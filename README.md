@@ -32,7 +32,7 @@ Software
   
 **:paperclip: Carpeta Docs**
 * [ A0.1 Recopilación de datos por medio de la entrevista](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A0.1data_collection_through_interview_GuillermoSoriaMarquez.md)
-
+* [A1.0 Consolidacion del acta constitutiva](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A1.0Consolidation%20of%20the%20articles%20of%20incorporation_GuillermoSoriaMarquez.md)
 # :closed_book: Unidad 2
 
 **:clipboard: Carpeta Blog**
