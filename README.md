@@ -38,7 +38,9 @@ Software
 * [C1.3 Requisitos del sistema para el caso de estudio](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C1.3%20Requesitos%20del%20Sistemas_GuillermoSoriaMarquez.md)
 * [C1.4 Modelado de requisitos a través de diagramas de comportamiento](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C1.4%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20de%20comportamiento_GuillermoSoriaMarquez.md) 
 * [C1.5  Modelado de requisitos a través de diagramas estructurados](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C1.5%20%20Modelado%20de%20requisitos%20a%20trav%C3%A9s%20de%20diagramas%20estructurados_GuillermoSoriaMarquez.md)  
+  
 **:paperclip: Carpeta Docs**
+
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A1.0Consolidation%20of%20the%20articles%20of%20incorporation_GuillermoSoriaMarquez.md)
 
 # :orange_book: Unidad 3
