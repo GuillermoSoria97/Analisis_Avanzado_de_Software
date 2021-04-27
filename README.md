@@ -42,6 +42,7 @@ Software
 **:paperclip: Carpeta Docs**
 
 * [A1.0 Consolidacion del acta constitutiva](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A1.0Consolidation%20of%20the%20articles%20of%20incorporation_GuillermoSoriaMarquez.md)
+* [A1.1  Modelado de requisitos a través de diagramas UML](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A1.1Requirements%20modeling%20through%20UML%20diagrams_GuillermoSoriaMarquez.md)
 
 # :orange_book: Unidad 3
 
