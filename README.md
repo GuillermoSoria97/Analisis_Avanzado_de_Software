@@ -47,6 +47,8 @@ Software
 # :orange_book: Unidad 3
 
 **:clipboard: Carpeta Blog**
+* [C2.1 Especificación de Requerimientos Funcionales](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C2.1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_GuillermoSoriaMarquez.md)
+
 **:paperclip: Carpeta Docs**
 
 
