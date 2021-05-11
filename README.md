@@ -50,7 +50,7 @@ Software
 * [C2.1 Especificación de Requerimientos Funcionales](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Blog/C2.1%20Especificaci%C3%B3n%20de%20Requerimientos%20Funcionales_GuillermoSoriaMarquez.md)
 
 **:paperclip: Carpeta Docs**
-
+* [A2.1 Especificación de requisitos y documentación](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A2.1%20Specification%20of%20requirements%20and%20documentation_GuillermoSoriaMarquez.md)
 
 # :blue_book: Unidad 4
 
