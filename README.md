@@ -51,7 +51,7 @@ Software
 
 **:paperclip: Carpeta Docs**
 * [A2.1 Especificación de requisitos y documentación](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A2.1%20Specification%20of%20requirements%20and%20documentation_GuillermoSoriaMarquez.md)
-
+* [A2.2 Diseño de la arquitectura 4+1](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A2.2%20Design%20of%20the%204%2B1%20architecture_GuillermoSoriaMarquez.md)
 # :blue_book: Unidad 4
 
 **:clipboard: Carpeta Blog**
