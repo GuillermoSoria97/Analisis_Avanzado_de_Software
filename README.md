@@ -56,5 +56,7 @@ Software
 # :blue_book: Unidad 4
 
 **:clipboard: Carpeta Blog**
+
+
 **:paperclip: Carpeta Docs**
 * [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.1%20Scrum%20start%20phase%20Project%20vision%20statement_GuillermoSoriaMarquez.md)
