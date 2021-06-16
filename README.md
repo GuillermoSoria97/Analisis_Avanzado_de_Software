@@ -62,3 +62,5 @@ Software
 * [A3.1 Fase inicio Scrum: Declaracion de vision del proyecto](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.1%20Scrum%20start%20phase%20Project%20vision%20statement_GuillermoSoriaMarquez.md)
 
 * [A3.2 Fase inicio: Artefactos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.2_Initiation_Phase_Artifacts_GuillermoSoriaMarquez.md)
+
+* [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.3%20Software%20Architecture%20through%20the%20C4%20Model_GuillermoSoriaMarquez.md)
