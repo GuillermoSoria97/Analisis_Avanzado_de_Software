@@ -64,3 +64,5 @@ Software
 * [A3.2 Fase inicio: Artefactos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.2_Initiation_Phase_Artifacts_GuillermoSoriaMarquez.md)
 
 * [A3.3 Arquitectura de software a traves del Modelo C4](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.3%20Software%20Architecture%20through%20the%20C4%20Model_GuillermoSoriaMarquez.md)
+  
+* [A3.4  Fase planificacion y estimacion: Artefactos](https://github.com/GuillermoSoria97/Analisis_Avanzado_de_Software/blob/main/Docs/A3.4Planning_and_estimation_phase_Artifacts.GuillermoSoriaMarquez.md)
